@@ -1,0 +1,2 @@
+defmodule ElixirOfOchoku do
+end
